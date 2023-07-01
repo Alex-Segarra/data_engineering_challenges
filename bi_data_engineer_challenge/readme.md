@@ -1,10 +1,13 @@
 # BI Data Engineer Challenge
 
+This was part of a challenge issued to me to see if I could run an ETL.  The stated technologies included python and postgresql - which is what I leveraged heavily.  Lacking the ability to use any sophisticated technologies, I stuck as closely to base level libraries found in any python/Linux distributions (with the exception of psycopg2).
+
 Please refer to the documents in the "requirements" folder for more information about the specifications.
 
 ### Requirements
 - Linux Distribution (Ubuntu or Debian)
 - Python 3.7 or above
+-- psycopg2 library
 - Jupyter Notebook (recommended)
 
 ### This folder contains:

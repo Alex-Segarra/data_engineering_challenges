@@ -2,7 +2,7 @@
 
 This was part of a challenge issued to me to see if I could run an ETL into a star schema with as close to base level python and postgresql as possible. The challengers typically leverage Snowflake.  Lacking the ability to use any sophisticated technologies, I stuck as closely to base level libraries found in any python/Linux distributions (with the exception of psycopg2).
 
-* Please refer to the documents in the "requirements" folder for more information about the specifications. *
+*Please refer to the documents in the "requirements" folder for more information about the specifications.*
 
 ### Requirements
 - Linux Distribution (Ubuntu or Debian)
